@@ -41,7 +41,7 @@ public class DuplicateEliminator {
 
         int[] uniqueArray = eliminateDuplicates(userArray);
 
-4        System.out.print("Array without duplicates: ");
+        System.out.print("Array without duplicates: ");
         for (int value : uniqueArray) {
             System.out.print(value + " ");
         }
